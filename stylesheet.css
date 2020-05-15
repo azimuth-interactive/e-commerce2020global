@@ -1,4 +1,7 @@
 /* ----------- Global ----------- */
+body {
+    height: 100vh;
+}
 .copyright {
     color: #A32380;
     font-weight: bold;
