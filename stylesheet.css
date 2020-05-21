@@ -19,8 +19,6 @@ body {
     font-family: Verdana, Geneva, sans-serif;
     font-size: 12px;
     margin: 0;
-    display: flex;
-    flex-direction: column;
 }
 /* ----------- Header ----------- */
 header {
